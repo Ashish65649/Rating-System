@@ -6,7 +6,7 @@ import data from './Dummy.jsx';
 
 function Widget() {
   return (
-    <Card card={data[1]}/>
+    <Card card={data[0]}/>
   );
 }
 
