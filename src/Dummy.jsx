@@ -5,7 +5,7 @@ let data = [
     name: "Ashish Ranjan",
     date: "a month ago",
     source: "https://www.google.com/favicon.ico",
-    text: `Lorem ipsum dolor sit amet, consectetur adip incididunt Lorem ipsum
+    text: `Narendra Modi dolor sit amet, consectetur adip incididunt Lorem ipsum
         dolor sit consectetur adip incididunt Lorem ipsum amet, consectetur
         adip incididunt`,
   },
